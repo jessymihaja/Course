@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+    body{
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+    }
+    input{
+        border-top: 1px;
+        border-left: none;
+        border-right:none;
+    }
+    #form{
+        background-color: white;
+        margin: 50px 350px 100px 350px;
+        padding: 40px 0 100px 0;
+        border-radius: 10px;
+        width: auto;
+        height: auto;
+    }
+    #bouton{
+        margin-top: 25px;
+        background-color: black;
+        border:none;
+        color: white;
+        padding:20px 0 20px 0;
+        border-radius: 20px;
+        width:150px;
+        height:80px;
+        text-align: center;
+        font-size:25px;
+    }
+        #boutonG{
+        margin-top: 25px;
+        background-color: black;
+        border:none;
+        color: white;
+        padding:20px 0 20px 0;
+        border-radius: 20px;
+        width:220px;
+        height:70px;
+        text-align: center;
+        font-size:25px;
+    }
+
+
+    #bouton:hover{
+        background-color: grey;
+    }
+    #boutonG:hover{
+        background-color: grey;
+    }
+    .writeInInputs{
+        padding-top:10px;   
+    }
+    .writeInInputs input{
+        width:75%;
+        border-top: 1px;
+        border-left: none;
+        border-right:none;
+        padding:15px;
+        text-align: left;
+     
+
+    }
+
+    .writeInInputs h3{
+       text-align:left;
+       padding-left:12%;
+
+    }
+    .writeInInputs textarea{
+        width: 75%;
+        border-top: 1px;
+        border-left: none;
+        border-right:none;
+        padding-top:10px;   
+    }
+    #buttonBreak{
+        padding:75px;
+
+    }
+    .chooseInput{
+        text-align: left;
+        padding-left:12%;
+        padding-top:10px;
+    }
+    select{
+        width:50%;
+        height:50px;
+        background-color:whitesmoke;
+        border-radius:5px;
+        padding:5px;
+        border:none;
+    }

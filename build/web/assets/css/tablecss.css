@@ -1,0 +1,68 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 4 juin 2024, 20:47:52
+    Author     : jessy
+*/
+
+table {
+            width: 40%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 18px;
+            text-align: left;
+        }
+        th, td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+        thead {
+            background-color: #f2f2f2;
+        }
+        th {
+            background-color: #ff6666;
+            color: white;
+        }
+        .tablediv{
+            float: left;
+            margin-left: 50px;
+        }
+        .tablediv h3{
+            color: #ff6666;
+        }
+      .chartContainer {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 150px;
+            margin-top: 290px
+        }
+        .chartCard {
+            margin-left: 70px;
+            width: 100px;
+        }
+        .chartBox {
+            width: 200px;
+        }
+        #divToExport{
+            width: 1000px;
+            height: 600px;
+            margin-left: -150px;
+            padding-top: 100px;
+        }
+        #table1{
+            background-color: #ff6699;  
+        }
+        #table2{
+            background-color: #9999ff;
+        }
+        #table3{
+            background-color: #cccccc;
+        }
+        #table4{
+            background-color: #ffff66;
+        }
+        #table5{
+            background-color: #99ff99;
+        }

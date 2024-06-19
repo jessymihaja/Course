@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/liste_etapes.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/servlet/UploadDonneeServlet.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/detail/V_classement_jour4.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/helper/NbCoureur.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/entity/Equipe.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/detail/EquipeNoId.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/assossiation/CoureurCategorie.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/detail/V_classementFinal.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/classementEquipe.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/insertion_categorie.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/pageAdmin.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/servlet/CoureurEtapeServlet.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/servlet/EtapeCoureurTempsServlet.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/servlet/UploadPointServlet.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/detail/Classement_equipe.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/navAdmin.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/detail/Resultat.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/loginAdmin.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/servlet/PenaliteServlet.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/servlet/EtapeServlet.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/detail/Detail_coureur.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/classementEtape.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/entity/Penalite.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/classement.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/login.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/liste_penalite.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/servlet/ResetServlet.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/assets/css/tablecss.css</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/navClient.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/utilisateur/Users.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/listeEquipe.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/assossiation/CoureurEtape.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/insertion_penalite.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/entity/Coureur.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/servlet/DeletePenaliteServlet.java</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/acceuil.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/web/insertion_equipe.jsp</file>
+            <file>file:/C:/Users/jessy/OneDrive/Documents/NetBeansProjects/eval2/src/java/servlet/EquipeServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
